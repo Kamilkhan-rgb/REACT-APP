@@ -60,13 +60,13 @@
 
 import React from 'react'
 import CARD from './REALTIMEWEBSITE/WEBSITES/CARD'
-   let p="ddddddddddddd"
+  
 function App() {
   return (
     <>
   
-   <CARD  pro={p}>
-   <h1 className='text-gray-900 font-black font-serif pl-5'>TEXT CHANGER</h1>
+   <CARD  >
+   
    </CARD>
    
     </>
